@@ -20,10 +20,6 @@
 
 import numpy as np
 
-
-
-
-
 # Task no 1
 def function1():
     # create 2d array from 1,12 range 
@@ -43,8 +39,6 @@ def function1():
     [11 12]]
     """
 function1()
-
-
 
 
 
@@ -155,8 +149,6 @@ function6()
 
 
 
-
-
  
 #task7
 def function7():
@@ -192,7 +184,6 @@ def function8():
     """ 
 
 function8()
-
 
 
 
@@ -465,9 +456,3 @@ def function20():
 function20()
 #Expected Output: array([ 3,  5,  7,  9, 11, 13, 15, 17, 19, 21])
 #--------------------------X-----------------------------X-----------------------------X----------------------------X---------------------
-
-
-
-
-
-
