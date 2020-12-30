@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 # Read Instructions carefully before attempting this assignment
 
 # 1) don't rename any function name
@@ -22,13 +16,12 @@
 # * then we can't assign your scores in our database.
 
 
-# In[ ]:
 
 
 import numpy as np
 
 
-# In[7]:
+
 
 
 # Task no 1
@@ -52,7 +45,7 @@ def function1():
 function1()
 
 
-# In[9]:
+
 
 
 # Task2
@@ -83,7 +76,7 @@ array([[[10., 11., 12.],
 function2()
 
 
-# In[12]:
+
 
 
 #task3
@@ -102,7 +95,7 @@ def function3():
 function3()
 
 
-# In[15]:
+
 
 
 
@@ -123,7 +116,7 @@ def function4():
 function4()
 
 
-# In[16]:
+
 
 
 
@@ -145,7 +138,7 @@ Expected Output:
 function5()
 
 
-# In[17]:
+
 
 
 #task6
@@ -160,7 +153,7 @@ def function6():
 function6()
 
 
-# In[18]:
+
 
 
 
@@ -180,7 +173,7 @@ def function7():
 function7()
 
 
-# In[25]:
+
 
 
 #task8
@@ -201,7 +194,7 @@ def function8():
 function8()
 
 
-# In[28]:
+
 
 
 
@@ -223,7 +216,7 @@ def function9():
 function9()
 
 
-# In[29]:
+
 
 
 
@@ -247,7 +240,7 @@ return subt
 function10()
 
 
-# In[31]:
+
 
 
 
@@ -267,7 +260,7 @@ def function11():
 function11()
 
 
-# In[32]:
+
 
 
 
@@ -288,7 +281,7 @@ def function12():
 function12()
 
 
-# In[33]:
+
 
 
 #task13
@@ -308,7 +301,7 @@ def function13():
 function13()
 
 
-# In[36]:
+
 
 
 #task14
@@ -333,7 +326,7 @@ def function14():
 function14()
 
 
-# In[37]:
+
 
 
 
@@ -356,7 +349,7 @@ def function15():
 function15()
 
 
-# In[43]:
+
 
 
 
@@ -382,7 +375,7 @@ def function16():
 function16()    
 
 
-# In[44]:
+
 
 
 
@@ -412,7 +405,7 @@ array([['NO', 'NO', 'NO', 'NO', 'NO', 'NO', 'NO', 'NO', 'NO', 'NO'],
 function17()
 
 
-# In[45]:
+
 
 
 #Task18
@@ -431,8 +424,6 @@ def function18():
     #Expected output: 3
 function18()
 
-
-# In[46]:
 
 
 # Task19
@@ -460,7 +451,7 @@ def function19():
 function19()
 
 
-# In[47]:
+
 
 
 #Task20
@@ -476,7 +467,6 @@ function20()
 #--------------------------X-----------------------------X-----------------------------X----------------------------X---------------------
 
 
-# In[ ]:
 
 
 
